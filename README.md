@@ -6,7 +6,8 @@ Lab 2.1 : Ce projet présente une introduction à la régression logistique appl
 Le dataset Iris, introduit par le biologiste britannique Ronald Fisher, contient 150 échantillons répartis entre trois espèces de fleurs :   
 - Iris setosa   
 - Iris versicolor   
-- Iris virginica   
+- Iris virginica
+
 Chaque échantillon comporte 4 caractéristiques physiques mesurées en centimètres :   
 - Longueur du sépale
 - Largeur du sépale
