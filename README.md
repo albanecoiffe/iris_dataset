@@ -1,19 +1,19 @@
-# Introduction à la Régression Logistique sur le Dataset Iris 🌸   
+# Introduction to Logistic Regression on the Iris Dataset 🌸
+  
 
 [Notebook](https://albanecoiffe.github.io/iris_dataset/)
 
-Lab 2.1 : Ce projet présente une introduction à la régression logistique appliquée à la classification des espèces d'Iris en utilisant le célèbre dataset Iris. Ce dataset est un classique en data science, souvent utilisé pour les débutants souhaitant pratiquer l'analyse de données et les techniques de classification.    
+Lab 2.1: This project introduces logistic regression applied to the classification of Iris species using the well-known Iris dataset. This dataset is a classic in data science, widely used by beginners to practice data analysis and classification techniques.     
 
-## 📊 Description des Données   
-Le dataset Iris, introduit par le biologiste britannique Ronald Fisher, contient 150 échantillons répartis entre trois espèces de fleurs :   
-- Iris setosa   
-- Iris versicolor   
+## 📊 Dataset Description
+The Iris dataset, introduced by British biologist Ronald Fisher, contains 150 samples divided among three flower species:
+- Iris setosa
+- Iris versicolor
 - Iris virginica
 
-Chaque échantillon comporte 4 caractéristiques physiques mesurées en centimètres :   
-- Longueur du sépale
-- Largeur du sépale
-- Longueur du pétale
-- Largeur du pétale
-
-L'objectif est de classifier chaque échantillon en fonction de ces caractéristiques dans l'une des trois espèces.
+Each sample includes four physical characteristics, measured in centimeters:
+- Sepal length
+- Sepal width
+- Petal length
+- Petal width
+The goal is to classify each sample into one of the three species based on these features.
