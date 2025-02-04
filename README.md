@@ -15,5 +15,5 @@ Each sample includes four physical characteristics, measured in centimeters:
 - Sepal length
 - Sepal width
 - Petal length
-- Petal width
+- Petal width      
 The goal is to classify each sample into one of the three species based on these features.
